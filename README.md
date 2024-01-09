@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andleeb
-- 👀 I’m interested in cloud servicea
+- 👀 I’m interested in cloud services
 - 🌱 I’m currently learning devops
 - 📫 How to reach me Andleeb zehra my linknden profile
   
